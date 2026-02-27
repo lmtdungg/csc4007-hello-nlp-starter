@@ -1,0 +1,13 @@
+[LAB0] ENV CHECK OK
+{
+  "timestamp_utc": "2026-02-27T16:47:38.403012Z",
+  "python": "3.13.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "1.26.4",
+  "pandas": "3.0.1",
+  "sklearn": "1.8.0",
+  "transformers": "5.2.0",
+  "datasets": "4.6.0",
+  "evaluate": "0.4.6",
+  "vn_lib": "underthesea"
+}
